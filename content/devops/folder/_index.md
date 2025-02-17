@@ -37,7 +37,7 @@ Główne gałęzie DevOps
 - Konteneryzacja aplikacji dla lepszej skalowalności i przenośności.
 - Popularne narzędzia: Docker, Kubernetes
 
-6️⃣ Cloud Computing & Hybrid Cloud
+6️⃣ Cloud Computing & Hybrid Cloud & On-Premises
 
 - Wykorzystanie chmury do zarządzania infrastrukturą i skalowania aplikacji.
 - Popularne platformy: AWS, Azure, Google Cloud
